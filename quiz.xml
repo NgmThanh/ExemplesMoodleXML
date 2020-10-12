@@ -3,7 +3,11 @@
 <quiz>
     <question type="multichoice">
 	<name>
+<<<<<<< HEAD
 		<text>Demo question à choix multiples !</text>
+=======
+		<text>Demo question à choix multiples ?</text>
+>>>>>>> 473a3bd853e37d7f584aa1c5116d0b3d0830c724
 	</name>
 	<questiontext format="html">
 		<text>Quel est la bonne réponse ?</text>
