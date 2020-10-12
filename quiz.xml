@@ -4,7 +4,11 @@
     <question type="multichoice">
 	<name>
 		<text>Demo question à choix multiples !</text>
+<<<<<<< HEAD
 		<text>Test conflit question 7</test>
+=======
+		<text>De toute façon ça va conflict</text>
+>>>>>>> branch2Test
 	</name>
 	<questiontext format="html">
 		<text>Quel est la bonne réponse ?</text>
