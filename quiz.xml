@@ -5,7 +5,11 @@
 	<name>
 		<text>Demo question à choix multiples !</text>
 <<<<<<< HEAD
+<<<<<<< HEAD
 		<text>Test conflit question 7</test>
+=======
+		<text>De toute façon ça va conflict</text>
+>>>>>>> branch2Test
 =======
 		<text>De toute façon ça va conflict</text>
 >>>>>>> branch2Test
