@@ -4,18 +4,6 @@
     <question type="multichoice">
 	<name>
 		<text>Demo question à choix multiples !</text>
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-		<text>Test conflit question 7</test>
-=======
-		<text>De toute façon ça va conflict</text>
->>>>>>> branch2Test
-=======
-		<text>De toute façon ça va conflict</text>
->>>>>>> branch2Test
->>>>>>> c0dfab4474a2403bd489d953d98fb71c13c62db0
 	</name>
 	<questiontext format="html">
 		<text>Quel est la bonne réponse ?</text>
